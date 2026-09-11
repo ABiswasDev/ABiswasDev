@@ -27,4 +27,3 @@ Or just pick a repository, pull down the code, and see how the architecture tick
 * [LinkedIn](https://www.linkedin.com/in/abby33459/)
 * [Substack](https://abhishekbiswas.substack.com/)
 * [Medium](https://medium.com/@abhishekbiswas33459/)
-* [IInventors Cove](https://www.linkedin.com/company/iinventors-cove)
