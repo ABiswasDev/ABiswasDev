@@ -28,5 +28,5 @@ Or just pick a repository, pull down the code, and see how the architecture tick
 
 📫 **Connect with me:**
 * [LinkedIn](https://www.linkedin.com/in/abby33459/)
-* [Substack](https://abhishekbiswas.substack.com/)
+* [Substack](https://abhishekbiswasaaaaaaaaaaaaa.substack.com/)
 * [Medium](https://medium.com/@abhishekbiswas33459/)
