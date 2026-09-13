@@ -23,8 +23,17 @@ If you are exploring Gen AI solutions, post-quantum architectures, physical thre
 
 Or just pick a repository, pull down the code, and see how the architecture ticks.
 
-# 🌌 Ombraspace
-> **Building an open-source community focused on securing the digital world from Post-Quantum attacks.**
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/company/ombraveil/">
+    <img src="banner%20with%20icon%20github.png" alt="Ombraveil: Architecting the Shadows" width="100%">
+  </a>
+</div>
+
+**[Ombraveil](https://www.linkedin.com/company/ombraveil/)** is an open-source cryptography and research hub translating complex post-quantum theory into transparent, verifiable software. We engineer advanced security tools that empower users with absolute data sovereignty across air-gapped and cloud infrastructures.
+
+<br>
 
 📫 **Connect with me:**
 * [LinkedIn](https://www.linkedin.com/in/abby33459/)
